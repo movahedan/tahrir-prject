@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/movahedan/tahrir-project-server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/movahedan/tahrir-project-client.git
